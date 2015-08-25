@@ -7,10 +7,12 @@
 
 
 #include <stdio.h>
+#include "mylib/mylib.h"
 
 
 int main(void)
 {   printf("<<main program>>\n\n");
+    count_to_n(5);
     return 0;
 }
 
