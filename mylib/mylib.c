@@ -1,4 +1,9 @@
-/* implements mylib functions */
+/*---------------------------------------------------------
+ | File:	mylib.c
+ | Date:	Mon Aug 24 19:30:28 GMT 2015
+ | Author:	ellery coleman
+ | Abstract: 	Implements the mylib C library.
+ +---------------------------------------------------------*/
 
 #include "mylib.h"
 
